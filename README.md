@@ -10,7 +10,7 @@ Ce boilerplate fournit une structure de base optimisée pour démarrer rapidemen
 
 ```bash
 git clone https://github.com/it-pinots/html-boilerplate-cert.git
-cd html-boilerplate-cer
+cd html-boilerplate-cert
 ```
 
 ## 🛠 Utilisation
